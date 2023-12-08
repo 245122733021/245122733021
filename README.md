@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @245122733021
+- 👋 Hi, I’m @harshita_08
 My Name is Harshita..
 - 👀 I’m interested in Coding and Painting is my hobby.
 - 🌱 I’m currently pursuing my BE in CSE.
